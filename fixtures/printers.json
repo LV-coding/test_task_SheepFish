@@ -1,0 +1,32 @@
+[
+{
+  "model": "printers.printer",
+  "pk": 1,
+  "fields": {
+    "name": "test",
+    "api_key": "sadsfghfjk6i87653t4reqwd",
+    "check_type": "kitchen",
+    "point_id": 132435
+  }
+},
+{
+  "model": "printers.printer",
+  "pk": 2,
+  "fields": {
+    "name": "test_2",
+    "api_key": "21wvbnj435geqfcwdfgr",
+    "check_type": "client",
+    "point_id": 1234
+  }
+},
+{
+  "model": "printers.printer",
+  "pk": 3,
+  "fields": {
+    "name": "test3",
+    "api_key": "12rgb7564rgbku5eh",
+    "check_type": "kitchen",
+    "point_id": 1345
+  }
+}
+]
